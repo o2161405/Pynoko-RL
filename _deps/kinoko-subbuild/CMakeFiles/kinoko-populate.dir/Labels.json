@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/luke/Desktop/pynoko-main(5)/pynoko-main/build/_deps/kinoko-subbuild/CMakeFiles/kinoko-populate"
+		},
+		{
+			"file" : "/home/luke/Desktop/pynoko-main(5)/pynoko-main/build/_deps/kinoko-subbuild/CMakeFiles/kinoko-populate.rule"
+		},
+		{
+			"file" : "/home/luke/Desktop/pynoko-main(5)/pynoko-main/build/_deps/kinoko-subbuild/CMakeFiles/kinoko-populate-complete.rule"
+		},
+		{
+			"file" : "/home/luke/Desktop/pynoko-main(5)/pynoko-main/build/_deps/kinoko-subbuild/kinoko-populate-prefix/src/kinoko-populate-stamp/kinoko-populate-build.rule"
+		},
+		{
+			"file" : "/home/luke/Desktop/pynoko-main(5)/pynoko-main/build/_deps/kinoko-subbuild/kinoko-populate-prefix/src/kinoko-populate-stamp/kinoko-populate-configure.rule"
+		},
+		{
+			"file" : "/home/luke/Desktop/pynoko-main(5)/pynoko-main/build/_deps/kinoko-subbuild/kinoko-populate-prefix/src/kinoko-populate-stamp/kinoko-populate-download.rule"
+		},
+		{
+			"file" : "/home/luke/Desktop/pynoko-main(5)/pynoko-main/build/_deps/kinoko-subbuild/kinoko-populate-prefix/src/kinoko-populate-stamp/kinoko-populate-install.rule"
+		},
+		{
+			"file" : "/home/luke/Desktop/pynoko-main(5)/pynoko-main/build/_deps/kinoko-subbuild/kinoko-populate-prefix/src/kinoko-populate-stamp/kinoko-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/luke/Desktop/pynoko-main(5)/pynoko-main/build/_deps/kinoko-subbuild/kinoko-populate-prefix/src/kinoko-populate-stamp/kinoko-populate-patch.rule"
+		},
+		{
+			"file" : "/home/luke/Desktop/pynoko-main(5)/pynoko-main/build/_deps/kinoko-subbuild/kinoko-populate-prefix/src/kinoko-populate-stamp/kinoko-populate-test.rule"
+		},
+		{
+			"file" : "/home/luke/Desktop/pynoko-main(5)/pynoko-main/build/_deps/kinoko-subbuild/kinoko-populate-prefix/src/kinoko-populate-stamp/kinoko-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"kinoko-populate"
+		],
+		"name" : "kinoko-populate"
+	}
+}

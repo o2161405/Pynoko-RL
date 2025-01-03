@@ -1,0 +1,3 @@
+/home/luke/Desktop/pynoko-main(5)/pynoko-main/build/_deps/kinoko-subbuild/CMakeFiles/kinoko-populate.dir
+/home/luke/Desktop/pynoko-main(5)/pynoko-main/build/_deps/kinoko-subbuild/CMakeFiles/edit_cache.dir
+/home/luke/Desktop/pynoko-main(5)/pynoko-main/build/_deps/kinoko-subbuild/CMakeFiles/rebuild_cache.dir

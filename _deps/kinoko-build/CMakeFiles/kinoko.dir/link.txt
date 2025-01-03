@@ -1,0 +1,1 @@
+/usr/bin/clang++ CMakeFiles/kinoko.dir/source/host/main.cc.o -o kinoko  -Wl,-rpath,"/home/luke/Desktop/pynoko-main(5)/pynoko-main/build/_deps/kinoko-build" liblibkinoko.so 
